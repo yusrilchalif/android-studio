@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas Intent</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="loginBTN">Login</string>
+    <string name="sign_up_for_new_account">New Account</string>
+    <string name="sign_up">Sign up for </string>
+    <string name="register">Register</string>
+</resources>
